@@ -1,0 +1,39 @@
+{
+  "name": "@ookla/swfobject",
+  "version": "2.3.0",
+  "description": "SWFObject is an easy-to-use and standards-friendly method to embed Flash content, which utilizes one small JavaScript file",
+  "keywords": [
+    "SWFObject",
+    "swf",
+    "object",
+    "flash",
+    "embed",
+    "content"
+  ],
+
+  "author": {
+    "name": "Arnout Kazemier"
+  },
+  "maintainers": [
+    {
+      "name": "Ookla",
+      "email": "dev@ookla.com"
+    }
+  ],
+
+  "homepage": "https://github.com/tuck182/swfobject",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuck182/swfobject.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tuck182/swfobject/issues"
+  },
+  "license": "MIT",
+
+  "main": "swfobject/src/swfobject.js",
+  "dependencies": {},
+  "devDependencies": {
+    "active-x-obfuscator": "0.0.x"
+  }
+}
