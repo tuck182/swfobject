@@ -1,0 +1,8 @@
+.DS_Store
+/node_modules
+*.fla
+*.as
+/gulp.d
+gulpfile.babel.js
+bower.json
+/swfobject_generator
